@@ -1,28 +1,28 @@
-@font-face{font-family:untitled-font-2;src:url(https://jalantikus.com/assets/db328be6.eot);src:url(https://jalantikus.com/assets/db328be6.eot?#iefix) format("embedded-opentype"),url(https://jalantikus.com/assets/1495502f.woff) format("woff"),url(https://jalantikus.com/assets/fed59d67.ttf) format("truetype"),url(https://jalantikus.com/assets/d898e6fa.svg#untitled-font-7) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:untitled-font-2;src:url(db328be6.eot);src:url(db328be6.eot?#iefix) format("embedded-opentype"),url(1495502f.woff) format("woff"),url(fed59d67.ttf) format("truetype"),url(d898e6fa.svg#untitled-font-7) format("svg");font-weight:400;font-style:normal}
 
-@font-face{font-family:Museo;src:url(https://jalantikus.com/assets/fd4a72de.woff2) format("woff2");font-weight:300;font-style:normal}
+@font-face{font-family:Museo;src:url(fd4a72de.woff2) format("woff2");font-weight:300;font-style:normal}
 
-@font-face{font-family:Museo;src:url(https://jalantikus.com/assets/1f58a3d1.woff2) format("woff2");font-weight:500;font-style:normal}
+@font-face{font-family:Museo;src:url(1f58a3d1.woff2) format("woff2");font-weight:500;font-style:normal}
 
-@font-face{font-family:Museo;src:url(https://jalantikus.com/assets/e47f2414.woff2) format("woff2");font-weight:700;font-style:normal}
+@font-face{font-family:Museo;src:url(e47f2414.woff2) format("woff2");font-weight:700;font-style:normal}
 
-@font-face{font-family:Roboto;src:url(https://jalantikus.com/assets/6adbdd19.woff2) format("woff2");font-weight:700;font-style:normal}
+@font-face{font-family:Roboto;src:url(6adbdd19.woff2) format("woff2");font-weight:700;font-style:normal}
 
-@font-face{font-family:Roboto;src:url(https://jalantikus.com/assets/8ee1b6db.woff2) format("woff2");font-weight:500;font-style:normal}
+@font-face{font-family:Roboto;src:url(8ee1b6db.woff2) format("woff2");font-weight:500;font-style:normal}
 
-@font-face{font-family:Roboto;src:url(https://jalantikus.com/assets/771e5d32.woff2) format("woff2");font-weight:400;font-style:normal}
+@font-face{font-family:Roboto;src:url(771e5d32.woff2) format("woff2");font-weight:400;font-style:normal}
 
-@font-face{font-family:Open Sans;src:url(https://jalantikus.com/assets/ebe43af1.woff2) format("woff2");font-weight:700;font-style:normal}
+@font-face{font-family:Open Sans;src:url(ebe43af1.woff2) format("woff2");font-weight:700;font-style:normal}
 
-@font-face{font-family:Open Sans;src:url(https://jalantikus.com/assets/35f4d7cb.woff2) format("woff2");font-weight:700;font-style:italic}
+@font-face{font-family:Open Sans;src:url(35f4d7cb.woff2) format("woff2");font-weight:700;font-style:italic}
 
-@font-face{font-family:Open Sans;src:url(https://jalantikus.com/assets/4ff7bf32.woff2) format("woff2");font-weight:400;font-style:italic}
+@font-face{font-family:Open Sans;src:url(4ff7bf32.woff2) format("woff2");font-weight:400;font-style:italic}
 
-@font-face{font-family:Open Sans;src:url(https://jalantikus.com/assets/019d1236.woff2) format("woff2");font-weight:400;font-style:normal}
+@font-face{font-family:Open Sans;src:url(019d1236.woff2) format("woff2");font-weight:400;font-style:normal}
 
-@font-face{font-family:Open Sans;src:url(https://jalantikus.com/assets/07d009a4.woff2) format("woff2");font-weight:600;font-style:normal}
+@font-face{font-family:Open Sans;src:url(07d009a4.woff2) format("woff2");font-weight:600;font-style:normal}
 
-@font-face{font-family:Open Sans;src:url(https://jalantikus.com/assets/836fc0a5.woff2) format("woff2");font-weight:600;font-style:italic}
+@font-face{font-family:Open Sans;src:url(836fc0a5.woff2) format("woff2");font-weight:600;font-style:italic}
 
 [data-icon]:before{content:attr(data-icon)}
 
@@ -718,7 +718,7 @@ form .box-6:nth-child(2n){padding-left:10px}
 
 .footer,.footer:before{position:absolute;bottom:0;display:block;width:100%}
 
-.footer:before{height:100%;left:0;right:0;top:0;content:"";background-image:url(https://jalantikus.com/assets/1d511072.png);opacity:.4}
+.footer:before{height:100%;left:0;right:0;top:0;content:"";background-image:url(1d511072.png);opacity:.4}
 
 .footer .foot-content{width:1150px;margin-right:auto;margin-left:auto;padding:30px 0;-webkit-box-sizing:border-box;box-sizing:border-box}
 
@@ -2486,7 +2486,7 @@ to{-webkit-transform:translate(-50%,-50%) rotate(1turn);transform:translate(-50%
 
 .browser-item-menu:hover{background-color:#f7f7f7}
 
-.browser-item-menu:before{position:absolute;width:66px;height:73px;left:50%;top:50%;margin-top:-60px;margin-left:-33px;background:url(https://jalantikus.com/assets/e6779bef.png);content:""}
+.browser-item-menu:before{position:absolute;width:66px;height:73px;left:50%;top:50%;margin-top:-60px;margin-left:-33px;background:url(e6779bef.png);content:""}
 
 .browser-item-menu.mozilla:before{background-position:-66px 0}
 
@@ -2588,7 +2588,7 @@ to{-webkit-transform:translate(-50%,-50%) rotate(1turn);transform:translate(-50%
 
 .jt-newapp:before{position:absolute;width:32px;height:32px;left:19px;top:19px;font-size:32px;color:#fff}
 
-.jt-newapp:after{position:absolute;width:100px;height:150px;right:10px;bottom:0;content:"";background-image:url(https://jalantikus.com/assets/7a717b55.png);background-repeat:no-repeat;background-size:contain;background-position:50%}
+.jt-newapp:after{position:absolute;width:100px;height:150px;right:10px;bottom:0;content:"";background-image:url(7a717b55.png);background-repeat:no-repeat;background-size:contain;background-position:50%}
 
 .jt-newapp:hover{-webkit-box-shadow:0 5px 40px rgba(206,10,70,.8);box-shadow:0 5px 40px rgba(206,10,70,.8)}
 
